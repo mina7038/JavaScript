@@ -1,8 +1,5 @@
-# JavaScript
-
 ## JavaScript란?
 
----
 
 > 동적인 웹페이지를 만들기 위해서 사용되는 언어
 > 
